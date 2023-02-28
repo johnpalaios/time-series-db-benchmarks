@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 1.56 queries/sec):
+TimescaleDB truck breakdown frequency per model:
+min:  1768.83ms, med:  2323.07ms, mean:  2386.82ms, max: 3294.08ms, stddev:   357.41ms, sum:  47.7sec, count: 20
+all queries                                    :
+min:  1768.83ms, med:  2323.07ms, mean:  2386.82ms, max: 3294.08ms, stddev:   357.41ms, sum:  47.7sec, count: 20
+wall clock time: 12.829798sec

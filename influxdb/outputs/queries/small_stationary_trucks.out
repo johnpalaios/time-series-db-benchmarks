@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 3.47 queries/sec):
+Influx stationary trucks:
+min:   727.30ms, med:  1027.42ms, mean:  1106.71ms, max: 2138.62ms, stddev:   303.94ms, sum:  22.1sec, count: 20
+all queries             :
+min:   727.30ms, med:  1027.42ms, mean:  1106.71ms, max: 2138.62ms, stddev:   303.94ms, sum:  22.1sec, count: 20
+wall clock time: 5.807042sec

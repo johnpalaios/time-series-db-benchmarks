@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 0.25 queries/sec):
+TimescaleDB average driver driving session without stopping per day:
+min: 10789.38ms, med: 15681.53ms, mean: 15256.27ms, max: 20790.27ms, stddev:  2942.72ms, sum: 305.1sec, count: 20
+all queries                                                        :
+min: 10789.38ms, med: 15681.53ms, mean: 15256.27ms, max: 20790.27ms, stddev:  2942.72ms, sum: 305.1sec, count: 20
+wall clock time: 80.703804sec

@@ -1,0 +1,27 @@
+{
+ "ResultFormatVersion": "0.1",
+ "RunnerConfig": {
+  "db-name": "benchmark",
+  "batch-size": 10000,
+  "workers": 1,
+  "limit": 0,
+  "do-load": true,
+  "do-create-db": true,
+  "do-abort-on-exist": false,
+  "reporting-period": 10000000000,
+  "hash-workers": false,
+  "no-flow-control": false,
+  "channel-capacity": 0,
+  "insert-intervals": "",
+  "results-file": "outputs/small1.out",
+  "file": "data/influx-data-small.csv",
+  "seed": 0
+ },
+ "StartTime": 1676825043,
+ "EndTime": 1676825139,
+ "DurationMillis": 95929,
+ "Totals": {
+  "metricRate": 256474.51379591489,
+  "rowRate": 32436.06372249864
+ }
+}

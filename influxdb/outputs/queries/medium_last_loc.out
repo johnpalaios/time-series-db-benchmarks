@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 5.45 queries/sec):
+Influx last location per truck:
+min:   588.06ms, med:   678.08ms, mean:   708.12ms, max:  840.54ms, stddev:    71.81ms, sum:  14.2sec, count: 20
+all queries                   :
+min:   588.06ms, med:   678.08ms, mean:   708.12ms, max:  840.54ms, stddev:    71.81ms, sum:  14.2sec, count: 20
+wall clock time: 3.709305sec

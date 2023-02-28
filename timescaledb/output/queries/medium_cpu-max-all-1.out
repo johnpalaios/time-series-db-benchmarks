@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 417.04 queries/sec):
+TimescaleDB max of all CPU metrics, random    1 hosts, random 8h0m0s by 1h:
+min:     1.86ms, med:     5.60ms, mean:     9.19ms, max:   38.47ms, stddev:     8.62ms, sum:   0.2sec, count: 20
+all queries                                                               :
+min:     1.86ms, med:     5.60ms, mean:     9.19ms, max:   38.47ms, stddev:     8.62ms, sum:   0.2sec, count: 20
+wall clock time: 0.061214sec

@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 1.53 queries/sec):
+Influx average vs projected fuel consumption per fleet:
+min:  1736.70ms, med:  2476.67ms, mean:  2520.66ms, max: 3414.91ms, stddev:   401.01ms, sum:  50.4sec, count: 20
+all queries                                           :
+min:  1736.70ms, med:  2476.67ms, mean:  2520.66ms, max: 3414.91ms, stddev:   401.01ms, sum:  50.4sec, count: 20
+wall clock time: 13.085203sec

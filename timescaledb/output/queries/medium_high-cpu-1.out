@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 334.33 queries/sec):
+TimescaleDB CPU over threshold, 1 host(s):
+min:     1.38ms, med:     3.63ms, mean:     7.78ms, max:   34.94ms, stddev:     8.99ms, sum:   0.2sec, count: 20
+all queries                              :
+min:     1.38ms, med:     3.63ms, mean:     7.78ms, max:   34.94ms, stddev:     8.99ms, sum:   0.2sec, count: 20
+wall clock time: 0.070799sec

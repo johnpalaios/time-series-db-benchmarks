@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 2244.89 queries/sec):
+Influx 1 cpu metric(s), random    1 hosts, random 1h0m0s by 1m:
+min:     0.42ms, med:     1.14ms, mean:     1.79ms, max:    5.74ms, stddev:     1.37ms, sum:   0.0sec, count: 20
+all queries                                                   :
+min:     0.42ms, med:     1.14ms, mean:     1.79ms, max:    5.74ms, stddev:     1.37ms, sum:   0.0sec, count: 20
+wall clock time: 0.013016sec

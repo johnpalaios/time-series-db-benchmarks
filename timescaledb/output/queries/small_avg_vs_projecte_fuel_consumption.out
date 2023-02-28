@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 3.87 queries/sec):
+TimescaleDB average vs projected fuel consumption per fleet:
+min:   643.71ms, med:   707.10ms, mean:  1001.67ms, max: 1960.89ms, stddev:   475.07ms, sum:  20.0sec, count: 20
+all queries                                                :
+min:   643.71ms, med:   707.10ms, mean:  1001.67ms, max: 1960.89ms, stddev:   475.07ms, sum:  20.0sec, count: 20
+wall clock time: 5.214007sec

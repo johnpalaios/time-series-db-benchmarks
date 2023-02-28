@@ -1,0 +1,27 @@
+{
+ "ResultFormatVersion": "0.1",
+ "RunnerConfig": {
+  "db-name": "benchmark",
+  "batch-size": 10000,
+  "workers": 4,
+  "limit": 0,
+  "do-load": true,
+  "do-create-db": true,
+  "do-abort-on-exist": false,
+  "reporting-period": 10000000000,
+  "hash-workers": false,
+  "no-flow-control": false,
+  "channel-capacity": 0,
+  "insert-intervals": "",
+  "results-file": "outputs/cpu-small.out",
+  "file": "data/small-data.csv",
+  "seed": 0
+ },
+ "StartTime": 1677100905,
+ "EndTime": 1677101205,
+ "DurationMillis": 300096,
+ "Totals": {
+  "metricRate": 581572.4194980534,
+  "rowRate": 51823.284905767134
+ }
+}

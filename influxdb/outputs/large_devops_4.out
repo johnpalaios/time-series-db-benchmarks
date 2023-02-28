@@ -1,0 +1,27 @@
+{
+ "ResultFormatVersion": "0.1",
+ "RunnerConfig": {
+  "db-name": "benchmark",
+  "batch-size": 10000,
+  "workers": 4,
+  "limit": 0,
+  "do-load": true,
+  "do-create-db": true,
+  "do-abort-on-exist": false,
+  "reporting-period": 10000000000,
+  "hash-workers": false,
+  "no-flow-control": false,
+  "channel-capacity": 0,
+  "insert-intervals": "",
+  "results-file": "outputs/large_devops_4.out",
+  "file": "data/large_devops_data.csv",
+  "seed": 0
+ },
+ "StartTime": 1677539853,
+ "EndTime": 1677541527,
+ "DurationMillis": 1674171,
+ "Totals": {
+  "metricRate": 291892.72990749904,
+  "rowRate": 26010.243259084073
+ }
+}

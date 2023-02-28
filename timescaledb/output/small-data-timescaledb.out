@@ -1,0 +1,11 @@
+Bulk loading file /home/user/data/small-data.csv
+localhost:5432 - accepting connections
+time,per. metric/s,metric total,overall metric/s,per. row/s,row total,overall row/s
+1675985336,389940.06,3.899728E+06,389940.06,77993.45,7.800000E+05,77993.45
+1675985346,360092.04,7.500432E+06,375017.12,72004.33,1.500000E+06,74999.10
+1675985356,314927.47,1.064972E+07,354987.34,62999.73,2.130000E+06,70999.33
+1675985366,300042.60,1.365029E+07,341250.75,59997.08,2.730000E+06,68248.69
+
+Summary:
+loaded 15557910 metrics in 45.802sec with 4 workers (mean rate 339673.82 metrics/sec)
+loaded 3111574 rows in 45.802sec with 4 workers (mean rate 67934.59 rows/sec)

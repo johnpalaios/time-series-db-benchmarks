@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 0.57 queries/sec):
+Influx average driver driving duration per day:
+min:  6516.99ms, med:  6896.90ms, mean:  6875.02ms, max: 7320.83ms, stddev:   259.16ms, sum: 137.5sec, count: 20
+all queries                                   :
+min:  6516.99ms, med:  6896.90ms, mean:  6875.02ms, max: 7320.83ms, stddev:   259.16ms, sum: 137.5sec, count: 20
+wall clock time: 35.158125sec

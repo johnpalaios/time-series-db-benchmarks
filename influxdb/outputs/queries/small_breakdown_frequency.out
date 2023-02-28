@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 0.53 queries/sec):
+Influx truck breakdown frequency per model:
+min:  7215.62ms, med:  7544.83ms, mean:  7512.83ms, max: 7720.19ms, stddev:   160.27ms, sum: 150.3sec, count: 20
+all queries                               :
+min:  7215.62ms, med:  7544.83ms, mean:  7512.83ms, max: 7720.19ms, stddev:   160.27ms, sum: 150.3sec, count: 20
+wall clock time: 37.770069sec

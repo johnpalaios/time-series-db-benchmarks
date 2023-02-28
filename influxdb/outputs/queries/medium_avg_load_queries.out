@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 0.09 queries/sec):
+Influx average load per truck model per fleet:
+min: 43778.05ms, med: 45441.02ms, mean: 45534.31ms, max: 47880.19ms, stddev:   963.14ms, sum: 910.7sec, count: 20
+all queries                                  :
+min: 43778.05ms, med: 45441.02ms, mean: 45534.31ms, max: 47880.19ms, stddev:   963.14ms, sum: 910.7sec, count: 20
+wall clock time: 228.539681sec

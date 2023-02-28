@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 0.09 queries/sec):
+Influx daily truck activity per fleet per model:
+min: 40484.86ms, med: 42444.80ms, mean: 42241.54ms, max: 43997.18ms, stddev:   895.26ms, sum: 844.8sec, count: 20
+all queries                                    :
+min: 40484.86ms, med: 42444.80ms, mean: 42241.54ms, max: 43997.18ms, stddev:   895.26ms, sum: 844.8sec, count: 20
+wall clock time: 212.776045sec

@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 0.01 queries/sec):
+TimescaleDB trucks with high load:
+min: 121049.09ms, med: 146579.45ms, mean: 271322.93ms, max: 799145.98ms, stddev: 261279.73ms, sum: 5426.5sec, count: 20
+all queries                      :
+min: 121049.09ms, med: 146579.45ms, mean: 271322.93ms, max: 799145.98ms, stddev: 261279.73ms, sum: 5426.5sec, count: 20
+wall clock time: 1386.154491sec

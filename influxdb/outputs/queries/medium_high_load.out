@@ -1,0 +1,6 @@
+Run complete after 20 queries with 4 workers (Overall query rate 4.96 queries/sec):
+Influx trucks with high load:
+min:   611.36ms, med:   778.88ms, mean:   779.04ms, max:  980.83ms, stddev:    81.25ms, sum:  15.6sec, count: 20
+all queries                 :
+min:   611.36ms, med:   778.88ms, mean:   779.04ms, max:  980.83ms, stddev:    81.25ms, sum:  15.6sec, count: 20
+wall clock time: 4.070756sec
